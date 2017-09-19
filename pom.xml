@@ -9,6 +9,7 @@
     <name>rest-api-cron</name>
     <url>http://maven.apache.org</url>
     <description>REST API cron</description>
+    <inceptionYear>2017</inceptionYear>
     
     <parent>
         <groupId>com.wildbeeslabs.api.rest</groupId>
